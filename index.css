@@ -1,0 +1,12 @@
+article {
+    color: red;
+    text-align: right;
+}
+.button {
+    color: royalblue;
+    background-color: aliceblue;
+    text-align: left;
+    cursor: pointer; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
